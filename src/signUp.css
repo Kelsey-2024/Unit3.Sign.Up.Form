@@ -1,0 +1,3 @@
+button, a {
+  cursor: pointer; /* Using pointer is controversial, this is just an example */
+}
